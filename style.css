@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 10%;
+}
+h1{
+    font-size: 50px;
+}
+.for-orange-color{
+    color: orange;
+}
+.for-flex-display{
+    display: flex;
+    margin-top: 50px;
+    padding: 50px;
+}
+.top-left-side{
+    
+    width: 50%;
+    margin: 10px;
+    padding: 5px;
+}
+.top-right-side{
+    width: 50%;
+    
+}
+
+.button-design{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.for-middle-part{
+    background-image: url(image/frame2.jpg);
+    height: 500px;
+    
+    
+}
+.my-recipies{
+    text-align: center;
+    margin-top: 100px;
+}
+.my-racipies-image-text{
+    text-align: left;
+    padding: 5px 20px;
+}
+.my-recipies-content{
+    border: 10px solid white;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 20px;
+    width: 33%;
+    height: 100%;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.my-recipies-text-color{
+color: #817979;
+}
+.my-racipies-image{
+    width: 90%;
+    height: 80%;
+    border-radius: 40px;
+    padding: 20px;
+    
+ 
+    
+}
+.page-bottom-part{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+
+.for-lower-part-display{
+    display: flex;
+    margin-bottom: 100px;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+
+}
+.for-lower-part{
+
+margin-left: 300px;
+}
+
+.lower-part-text{
+    font-size: 12px;
+}
